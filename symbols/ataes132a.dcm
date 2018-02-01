@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATAES132A
+D E2PROM and AES crypto engine
+K crypto
+$ENDCMP
+#
+#End Doc Library
